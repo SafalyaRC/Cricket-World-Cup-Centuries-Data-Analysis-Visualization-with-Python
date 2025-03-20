@@ -89,7 +89,7 @@ print(high_sr[['Player', 'Runs', 'S/R']])
 ---
 
 ## 🛠️ Technologies & Tools
-- Python 3.x
+- Python 3
 - Jupyter Notebook / Google Colab
 - NumPy, Pandas, Matplotlib, Seaborn
 
@@ -98,11 +98,11 @@ print(high_sr[['Player', 'Runs', 'S/R']])
 ## 📚 How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/cricket-worldcup-analysis.git
+git clone https://github.com/SafalyaRC/Cricket-World-Cup-Centuries-Data-Analysis-Visualization-with-Python.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd cricket-worldcup-analysis
+cd Cricket-World-Cup-Centuries-Data-Analysis-Visualization-with-Python
 ```
 3. Install required libraries:
 ```bash
