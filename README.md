@@ -21,7 +21,7 @@ The goal of this project was to gain insights from the dataset by performing var
 ---
 
 ## 📂 Dataset
-> **CSV Link:** [Cricket World Cup Centuries Dataset](#)  
+> **CSV Link:** <a href="https://drive.google.com/file/d/1-DanDyAOQyW0-Ntv15YsrkRBFd8LADzE/view?usp=drive_link">Link to Dataset</a>  
 The dataset consists of information about centuries scored in Cricket World Cup matches, including details about runs, balls faced, boundaries hit, and match results.
 
 ---
@@ -117,10 +117,12 @@ jupyter notebook
 
 ## 📊 Sample Visualizations
 ### 🎥 Runs vs Balls Scatter Plot
-<img src="images/runs_vs_balls.png" alt="Scatter Plot" width="600"/>
+![image](https://github.com/user-attachments/assets/4f7a9bd5-1c9c-4efe-aec9-edd0690fbb58)
+
 
 ### 📊 Win/Loss/Tie Plot
-<img src="images/win_loss_plot.png" alt="Win Loss Plot" width="600"/>
+![image](https://github.com/user-attachments/assets/4d4132ad-4a90-447a-9f8b-650f57bec4c7)
+
 
 ---
 
@@ -137,6 +139,7 @@ This project was part of my **Winter '24 Training Program** at my college, where
 ---
 
 ## 📧 Contact Me
+email: safalyaroy9463@gmail.com
 Feel free to reach out if you have any questions or suggestions!
 
 ---
